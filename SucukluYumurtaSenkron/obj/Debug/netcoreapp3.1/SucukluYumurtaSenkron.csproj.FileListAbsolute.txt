@@ -1,0 +1,16 @@
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.exe
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.deps.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.runtimeconfig.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.runtimeconfig.dev.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaSenkron.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.csprojAssemblyReference.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.AssemblyInfoInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.AssemblyInfo.cs
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.csproj.CoreCompileInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.csproj.CopyComplete
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaSenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaSenkron.genruntimeconfig.cache

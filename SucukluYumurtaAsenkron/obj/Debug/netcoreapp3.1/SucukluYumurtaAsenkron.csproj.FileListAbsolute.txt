@@ -1,0 +1,16 @@
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.exe
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.deps.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.runtimeconfig.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.runtimeconfig.dev.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.csprojAssemblyReference.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.AssemblyInfoInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.AssemblyInfo.cs
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.csproj.CoreCompileInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.csproj.CopyComplete
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\SucukluYumurtaAsenkron\obj\Debug\netcoreapp3.1\SucukluYumurtaAsenkron.genruntimeconfig.cache

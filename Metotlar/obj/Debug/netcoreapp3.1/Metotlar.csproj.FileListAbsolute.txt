@@ -1,0 +1,8 @@
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\fatih.aydin\source\repos\SucukluYumurta\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb

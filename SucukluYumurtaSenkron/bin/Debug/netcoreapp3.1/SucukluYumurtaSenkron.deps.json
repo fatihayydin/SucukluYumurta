@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SucukluYumurtaSenkron/1.0.0": {
+        "dependencies": {
+          "Metotlar": "1.0.0"
+        },
+        "runtime": {
+          "SucukluYumurtaSenkron.dll": {}
+        }
+      },
+      "Metotlar/1.0.0": {
+        "runtime": {
+          "Metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SucukluYumurtaSenkron/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
